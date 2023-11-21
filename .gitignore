@@ -1,3 +1,8 @@
+# Data
+/data/temp
+/data/processed
+/data/raw
+
 # History files
 .Rhistory
 .Rapp.history
@@ -40,7 +45,7 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
+# docs/
 
 # translation temp files
 po/*~
